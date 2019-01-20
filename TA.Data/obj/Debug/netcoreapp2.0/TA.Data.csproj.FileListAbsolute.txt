@@ -1,0 +1,9 @@
+D:\Working\ASP.NET\TA_Demo\TA.Data\bin\Debug\netcoreapp2.0\TA.Data.deps.json
+D:\Working\ASP.NET\TA_Demo\TA.Data\bin\Debug\netcoreapp2.0\TA.Data.dll
+D:\Working\ASP.NET\TA_Demo\TA.Data\bin\Debug\netcoreapp2.0\TA.Data.pdb
+D:\Working\ASP.NET\TA_Demo\TA.Data\obj\Debug\netcoreapp2.0\TA.Data.csprojResolveAssemblyReference.cache
+D:\Working\ASP.NET\TA_Demo\TA.Data\obj\Debug\netcoreapp2.0\TA.Data.csproj.CoreCompileInputs.cache
+D:\Working\ASP.NET\TA_Demo\TA.Data\obj\Debug\netcoreapp2.0\TA.Data.AssemblyInfoInputs.cache
+D:\Working\ASP.NET\TA_Demo\TA.Data\obj\Debug\netcoreapp2.0\TA.Data.AssemblyInfo.cs
+D:\Working\ASP.NET\TA_Demo\TA.Data\obj\Debug\netcoreapp2.0\TA.Data.dll
+D:\Working\ASP.NET\TA_Demo\TA.Data\obj\Debug\netcoreapp2.0\TA.Data.pdb

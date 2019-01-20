@@ -1,0 +1,12 @@
+D:\Working\ASP.NET\TA_Demo\TA.Service\bin\Debug\netcoreapp2.0\TA.Service.deps.json
+D:\Working\ASP.NET\TA_Demo\TA.Service\bin\Debug\netcoreapp2.0\TA.Service.dll
+D:\Working\ASP.NET\TA_Demo\TA.Service\bin\Debug\netcoreapp2.0\TA.Service.pdb
+D:\Working\ASP.NET\TA_Demo\TA.Service\bin\Debug\netcoreapp2.0\TA.Data.dll
+D:\Working\ASP.NET\TA_Demo\TA.Service\bin\Debug\netcoreapp2.0\TA.Data.pdb
+D:\Working\ASP.NET\TA_Demo\TA.Service\obj\Debug\netcoreapp2.0\TA.Service.csprojResolveAssemblyReference.cache
+D:\Working\ASP.NET\TA_Demo\TA.Service\obj\Debug\netcoreapp2.0\TA.Service.csproj.CoreCompileInputs.cache
+D:\Working\ASP.NET\TA_Demo\TA.Service\obj\Debug\netcoreapp2.0\TA.Service.AssemblyInfoInputs.cache
+D:\Working\ASP.NET\TA_Demo\TA.Service\obj\Debug\netcoreapp2.0\TA.Service.AssemblyInfo.cs
+D:\Working\ASP.NET\TA_Demo\TA.Service\obj\Debug\netcoreapp2.0\TA.Service.csproj.CopyComplete
+D:\Working\ASP.NET\TA_Demo\TA.Service\obj\Debug\netcoreapp2.0\TA.Service.dll
+D:\Working\ASP.NET\TA_Demo\TA.Service\obj\Debug\netcoreapp2.0\TA.Service.pdb
